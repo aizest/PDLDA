@@ -1,0 +1,184 @@
+drive	:	1107
+port	:	528
+file	:	523
+screen	:	517
+display	:	494
+adapter	:	455
+ssd	:	453
+monitor	:	452
+cable	:	423
+battery	:	405
+ram	:	359
+thunderbolt	:	358
+disk	:	326
+boot	:	318
+retina	:	296
+keyboard	:	288
+datum	:	264
+hdd	:	254
+usb-c	:	230
+power	:	216
+software	:	213
+os x	:	212
+folder	:	210
+application	:	200
+os	:	196
+bluetooth	:	195
+window	:	188
+connection	:	182
+disk utility	:	181
+case	:	179
+sierra	:	177
+setting	:	172
+iphone	:	171
+information	:	169
+backup	:	165
+smc	:	162
+mouse	:	162
+finder	:	157
+tv	:	157
+network	:	155
+windows	:	148
+preferences	:	145
+speed	:	145
+key	:	142
+video	:	140
+hd	:	140
+password	:	139
+safari	:	138
+space	:	138
+desktop	:	136
+link	:	134
+line	:	129
+dylib	:	125
+cpu	:	125
+memory	:	122
+trackpad	:	119
+page	:	117
+button	:	117
+partition	:	112
+hdmi	:	112
+driver	:	109
+dvd	:	108
+superdrive	:	108
+disc	:	108
+internet	:	108
+graphic	:	107
+command	:	105
+icon	:	104
+hdmus	:	104
+message	:	104
+charger	:	103
+instruction	:	103
+process	:	100
+service	:	98
+photo	:	97
+account	:	97
+hardware	:	96
+format	:	96
+osx	:	94
+logic board	:	94
+cd	:	92
+resolution	:	91
+speaker	:	91
+box	:	90
+hub	:	88
+storage	:	87
+program	:	86
+output	:	86
+lid	:	86
+libsystem_pthread	:	86
+image	:	85
+dock	:	84
+audio	:	83
+menu	:	83
+imac	:	81
+yosemite	:	81
+wifus	:	81
+maco	:	79
+usb	:	78
+list	:	77
+lookup	:	77
+ipad	:	76
+fan	:	75
+touch bar	:	75
+preference	:	75
+firewire	:	75
+sata	:	74
+website	:	73
+site	:	73
+nvram	:	72
+trash	:	72
+headphone	:	71
+displayport	:	71
+phone	:	69
+info	:	69
+connector	:	68
+processor	:	67
+owc	:	67
+volume	:	67
+router	:	66
+source	:	65
+utility	:	64
+reboot	:	64
+input	:	63
+light	:	63
+extension	:	63
+upgrade	:	60
+community	:	60
+document	:	60
+menu bar	:	59
+plug	:	59
+adaptor	:	58
+ethernet	:	57
+spec	:	55
+specification	:	55
+i7	:	55
+setup	:	55
+magsafe	:	54
+8gb	:	54
+dvi	:	54
+charge	:	54
+kernel	:	54
+4k	:	54
+macos sierra	:	54
+recovery mode	:	50
+power adapter	:	50
+sd card	:	48
+flash drive	:	47
+power button	:	47
+genius bar	:	46
+snow leopard	:	46
+macintosh hd	:	40
+safe mode	:	39
+mini displayport	:	36
+battery life	:	35
+mountain lion	:	35
+smc reset	:	34
+macos high sierra	:	34
+intel hd graphics	:	33
+power supply	:	33
+dvd drive	:	31
+system report	:	30
+touch id	:	28
+os x yosemite	:	25
+usb-c port	:	25
+shift key	:	25
+hdmus port	:	24
+internet recovery	:	24
+retina display	:	23
+operating system	:	23
+boot drive	:	21
+login screen	:	20
+hdmus cable	:	20
+track pad	:	19
+recovery partition	:	19
+internet connection	:	19
+login password	:	18
+video card	:	18
+thumb drive	:	18
+target disk mode	:	18
+thunderbolt display	:	17
+nvidia geforce	:	15
+file system	:	12
+pm kernel	:	6

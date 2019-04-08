@@ -1,0 +1,49 @@
+anxiety	:	44455
+body	:	9466
+head	:	8512
+eye	:	7680
+hip	:	7646
+heart	:	7638
+leg	:	7548
+mind	:	7020
+blood	:	6879
+stomach	:	5134
+chest	:	5022
+depression	:	4881
+stress	:	4561
+muscle	:	4430
+gallbladder	:	3706
+weight	:	3696
+hand	:	3442
+brain	:	3397
+sleep	:	3394
+arm	:	3387
+dizziness	:	3382
+thyroid	:	3230
+breath	:	3100
+neck	:	3047
+sex	:	2932
+foot	:	2834
+ear	:	2793
+sensation	:	2618
+vision	:	2552
+knee	:	2462
+throat	:	2394
+shoulder	:	2297
+breathing	:	2260
+pressure	:	2221
+vertigo	:	1821
+skin	:	1705
+palpitation	:	1683
+face	:	1666
+gallstone	:	1641
+blood pressure	:	1598
+prostate	:	1590
+fatigue	:	1579
+heart rate	:	1323
+anxiety disorder	:	1073
+acid reflux	:	712
+gall bladder	:	641
+brain fog	:	576
+brain tumor	:	515
+weight gain	:	511
